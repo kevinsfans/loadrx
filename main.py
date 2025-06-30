@@ -1,4 +1,4 @@
-import grandpaRx as rx
+import extramodule as rx
 import sys
 
 
